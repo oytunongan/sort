@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Ω(n) Sort1 is faster than Sort2 and Sort3 during sorted best case.
+
+sort2 uses: Merge Sort
+
+How do you know?: O(n*log(n)) Sort2 is faster than Sort1 and Sort3 during random and reversed worst cases.
+
+sort3 uses: Selection Sort
+
+How do you know?: Ω(n2) Sort3 is slower than Sort1 and Sort2 during sorted best case.
